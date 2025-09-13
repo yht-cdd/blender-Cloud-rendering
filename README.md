@@ -1,2 +1,5 @@
 # blender-Cloud-rendering
 一种使用cloud studio进行免费与快速的渲染方式
+这个是适用于blender4.4.3/cycles云渲染的快速与免费的解决办法
+没错代码内容全是DEEPSEEK写的，因为我也不是专业做这方面的
+运行方式详见ipynb文件
